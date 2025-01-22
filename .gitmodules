@@ -1,0 +1,6 @@
+[submodule "charitydonation-fe2"]
+	path = charitydonation-fe2
+	url = file:///D:/blockchain/Web3Cohort7/CharityDonation/charitydonation-fe2
+[submodule "CharityDonationSmartContract"]
+	path = CharityDonationSmartContract
+	url = file:///D:/blockchain/Web3Cohort7/CharityDonation/CharityDonationSmartContract
